@@ -147,6 +147,36 @@ article .blackbox {
   padding: 10px 15px;
 }
 
+/*  START add by BPD */
+
+article .bpd{
+    background: hsl(204, 33%, 85%) url(../img/header.png);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    line-height: 16pt;
+    padding: 6pt 8pt 14pt 8pt;
+    margin: auto;
+    max-width: 6in;
+    font-family: "Archivo Narrow", "Arial Narrow", "Trebuchet MS", ArialMT, Arial, sans-serif;
+}
+
+article .bpd .t {
+    text-align: left;
+    color: #490F67;
+    font-size: 16pt;
+    line-height: 1.5;
+}
+
+article .bpd .p {
+    text-align: left;
+    color: #490F67;
+    font-size: 10pt;
+}
+
+/*  END add by BPD */
+
 /* vip notices, next to the banner */
 .vip-notice {
     -webkit-border-radius: 6pt;
